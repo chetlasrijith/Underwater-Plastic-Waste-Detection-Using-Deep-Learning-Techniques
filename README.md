@@ -1,6 +1,6 @@
 ## Dataset
 - SeaClear Marine Debris Dataset (public): [[link](https://www.kaggle.com/datasets/jocelyndumlao/seaclear-marine-debris-detection-and-segmentation)]
-- Custom underwater dataset (private, large-scale)
+- Custom underwater dataset (private, large-scale): Uploaded sample images and labels for reference
 
 Due to storage and licensing constraints, the full custom dataset is not hosted in this repository.
 Researchers may request access by contacting the authors.
